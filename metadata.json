@@ -1,0 +1,6 @@
+{
+  "name": "HomeFinder - Modern Property & Real Estate Platform",
+  "description": "Discover verified homes, apartments, and villas for sale or rent with interactive tour scheduling, locality insights, and property management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
